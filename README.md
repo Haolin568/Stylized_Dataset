@@ -26,7 +26,7 @@ If you want to create a classification problem, based on how many classes you ne
 
 ## Download
 
-The stylized dataset can be downloaded at this (https://drive.google.com/file/d/1QibRPtRXkSbt8TQEWLXO3RLEvJNivzUL/view?usp=sharing) (Size = 25.4Gb).
+The stylized dataset can be downloaded at this (https://drive.google.com/file/d/1QibRPtRXkSbt8TQEWLXO3RLEvJNivzUL/view?usp=sharing) (Size = 921.6 MB).
 
 
 ## Description
