@@ -5,7 +5,7 @@
 
 In order to focus on addressing bias in image datasets, where the background is a common source of bias. For example, classifiers may be induced to rely on background information such as airplanes in the sky, cars on roads, or boats on the water.
 
-By using "style transfer" to create a fake relationship in which the style of the painting correlates with the subject that is to be recognized. the project will intentionally introduce biases into the dataset, providing an opportunity for researchers to develop classifiers that can recognize subjects accurately despite these biases.
+By using "style transfer(https://github.com/ProGamerGov/neural-style-pt)" to create a fake relationship in which the style of the painting correlates with the subject that is to be recognized. the project will intentionally introduce biases into the dataset, providing an opportunity for researchers to develop classifiers that can recognize subjects accurately despite these biases.
 
 
 ## Dataset
@@ -21,7 +21,6 @@ The WikiArt dataset includes 40 images of each of the art styles.
 The images from these two datasets were randomly paired to create 40 stylized images, for example {Snowboarding, Realism} in which the style of the WikiArt image is transferred to the content image from Meta-album. The resulting dataset will be used to challenge researchers to develop classifiers that can accurately recognize subjects despite the intentional biases introduced through this style transfer process.
 
 
-https://github.com/ProGamerGov/neural-style-pt
 
 
 
