@@ -24,4 +24,24 @@ If you want to create a classification problem, based on how many classes you ne
 
 
 
+## Download
 
+The stylized dataset can be downloaded at this (https://drive.google.com/file/d/1QibRPtRXkSbt8TQEWLXO3RLEvJNivzUL/view?usp=sharing) (Size = 25.4Gb).
+
+
+## Description
+
+Each folder contains information on each pair (Style_Object).
+
+In each pair (Style_Object) folder:
+
+images file containing all the stylized images
+labels.csv lists the information of stylized images.
+The columns of labels.csv are ORIG_CATEGORY_FILENAME, ORIG_STYLE_FILENAME, CATEGORY, STYLE,	and FILENAME.
+
+
+Note:
+
+    1.The WikiArt dataset can be used only for non-commercial research purpose.
+    2.The images in the WikiArt dataset were obtained from WikiArt.org. The authors are neither responsible for the content nor the meaning of these images.
+    3.By using the WikiArt dataset, you agree to obey the terms and conditions of WikiArt.org.
